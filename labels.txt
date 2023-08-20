@@ -1,7 +1,5 @@
-0 Nothing
-1 Pop Can
-2 Takeout
-3 banana
-4 Water bottle
-5 Tissue
-6 Phone
+0 Pop Can
+1 Takeout
+2 banana
+3 Water bottle
+4 Phone
