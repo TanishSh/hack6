@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Personal resources
+Resources/
+EcoMint Connect-logos/
+
+
 # Distribution / packaging
 .Python
 build/
